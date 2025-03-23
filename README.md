@@ -26,19 +26,22 @@
 <hr>
 
 <h2>기본적인 todo list 기능들 (추가, 삭제)</h2>
-구현을 위해 DOM, localStorage, 객체사용, JSON 등으로 구현
+구현을 위해 DOM, localStorage, 객체사용, JSON 등으로 구현<br>
+
 ![Image](https://github.com/user-attachments/assets/e9464ee7-b22d-4761-8748-e039c5e3aae5)
 
 <hr>
 
  <h2>사용자가 사이트에 머문 시간 측정</h2>
- 구현을 위해 setInterval, 저장을 위해 localStorage 사용
+ 구현을 위해 setInterval, 저장을 위해 localStorage 사용<br>
+ 
  ![Image](https://github.com/user-attachments/assets/2a382dd9-9f7f-4e4f-96c3-9ee37fad56aa)
 
  <hr>
 
 
    <h2>무작위 명언 출력과 날씨 제공</h2>
-   구현을 위해 random 함수와, Geolocation, Weather API를 사용했다.
+   구현을 위해 random 함수와, Geolocation, Weather API를 사용했다.<br>
+   
  ![image](https://github.com/user-attachments/assets/8b6ce277-da32-4b21-93e9-2d9d29e8af4b)
 
