@@ -18,7 +18,10 @@
 <h2>🎯기능들</h2>
 <ul>
   <li>사용자가 지금까지 사이트에 얼마나 머물렀는지 시간을 보여준다.</li>
+  ![image](https://github.com/user-attachments/assets/25cca544-8f91-489c-b1d7-5ba1b74afec3)
+
   <li>기본적인 todo list 기능 제공</li>
+  
   <li>사이트 접속할 때마다 무작위 명언 출력</li>
   <li>Geolocation과 Weather API를 통한 사용자 거주 지역 날씨와 온도 정보 제공</li>  
 </ul>
