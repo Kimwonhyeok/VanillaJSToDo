@@ -18,7 +18,7 @@
 <h2>🎯기능들</h2>
 <ul>
   <li>사용자가 지금까지 사이트에 얼마나 머물렀는지 시간을 보여준다.</li>
-  ![image](https://github.com/user-attachments/assets/25cca544-8f91-489c-b1d7-5ba1b74afec3)
+  https://github.com/Kimwonhyeok/vanillaJSToDo/issues/2#issue-2940998275
 
   <li>기본적인 todo list 기능 제공</li>
   
