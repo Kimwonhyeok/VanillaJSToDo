@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>새싹 투두 리스트</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/sprout.png">
+</head>
+<body class="non-user-name">
+    <div class="text-container">
+        <form class="name-form">
+            <input type="text" id="name" placeholder="이름을 입력하세요">
+            <input type="submit" id="name-submit" value="제출">
+        </form>
+    </div>
+    <div class="time-container">새싹을 심은지 어느덧 <span class="time-area"></span></div>
+    <h1 class="user-name"></h1>
+    <div class="container hidden">
+        <h1>🌱 새싹 투두 리스트</h1>
+        <div class="input-area">
+            <form class="task-form">
+                <input type="text" id="task" placeholder="할 일을 입력하세요...">
+                <input type="submit" id="add-btn" value="추가"></input>    
+            </form>
+        </div>
+        <ul id="todo-list">
+            <!-- 할 일 목록이 여기에 추가됨 -->
+        </ul>
+    </div>
+    <div class="bottom-container hidden">
+        <div class="say-container"></div>
+        <div class="weather-container2"> </div>
+        <div class="weather-container"></div>
+    </div>
+
+    <script src="dom/greet.js"></script>
+    <script src="dom/todo.js"></script>
+    <script src="dom/clock.js"></script>
+    <script src="dom/greatSay.js"></script>
+    <script type = "module" src="dom/apiKey.js"></script>
+    <script type = "module" src="dom/weather.js"></script>
+   
+</body>
+</html>
