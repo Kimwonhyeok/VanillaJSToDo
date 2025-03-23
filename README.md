@@ -18,11 +18,11 @@
 <h2>🎯기능들</h2>
 <ul>
   <li>사용자가 지금까지 사이트에 얼마나 머물렀는지 시간을 보여준다.</li>
-  https://github.com/Kimwonhyeok/vanillaJSToDo/issues/2#issue-2940998275
-
   <li>기본적인 todo list 기능 제공</li>
-  
   <li>사이트 접속할 때마다 무작위 명언 출력</li>
   <li>Geolocation과 Weather API를 통한 사용자 거주 지역 날씨와 온도 정보 제공</li>  
 </ul>
 
+기본적인 todo list 기능들 (추가, 삭제)
+구현을 위해 DOM, localStorage, 객체사용, JSON 등으로 구현
+![Image](https://github.com/user-attachments/assets/e9464ee7-b22d-4761-8748-e039c5e3aae5)
